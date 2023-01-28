@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stickyNotesApp/static/css/main.0bf79e98.css",
+    "main.js": "/stickyNotesApp/static/js/main.188ab887.js",
+    "static/media/Tatuaje.png": "/stickyNotesApp/static/media/Tatuaje.1047de48527011be966d.png",
+    "index.html": "/stickyNotesApp/index.html",
+    "main.0bf79e98.css.map": "/stickyNotesApp/static/css/main.0bf79e98.css.map",
+    "main.188ab887.js.map": "/stickyNotesApp/static/js/main.188ab887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf79e98.css",
+    "static/js/main.188ab887.js"
+  ]
+}
